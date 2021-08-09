@@ -17,6 +17,28 @@
     font-weight: bold;
 }
 
+.manga {
+    display: flex;
+}
+
+.cover {
+    width:191px;
+    height:300px;
+}
+
+.info {
+    margin-left: 10px;
+}
+
+.title {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.artists {
+    font-size: 16px;
+}
+
 .chapter {
     font-size: 20px;
     color: #222;
