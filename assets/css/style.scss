@@ -19,7 +19,9 @@
 
 .demo {
     list-style-type: none;
-    display: inline-block;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .demo-title {
