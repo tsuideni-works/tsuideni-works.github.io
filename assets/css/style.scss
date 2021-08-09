@@ -12,7 +12,8 @@
     color: #222;
 }
 
-.nav-item:hover {
+.nav-item:hover, .nav-item:focus {
+    color: #222;
     font-weight: bold;
 }
 
