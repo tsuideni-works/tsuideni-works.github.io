@@ -18,15 +18,13 @@
             <img src="{{site.logo | relative_url}}" alt="Logo" />
             {% endif %}
 
-            <div>
-                <ul>
-                    {% for item in site.data.navigation %}
-                    <li><a href="{{ item.link }}" {% if page.url==item.link %}style="color: #bf0000;" {% endif %}>
-                            {{ item.name }}
-                        </a></li>
-                    {% endfor %}
-                </ul>
-            </div>
+            <ul class="navigation">
+                {% for item in site.data.navigation %}
+                <li><a href="{{ item.link }}" {% if page.url==item.link %}style="color: #bf0000;" {% endif %}>
+                        {{ item.name }}
+                    </a></li>
+                {% endfor %}
+            </ul>
         </header>
         <section>
 
