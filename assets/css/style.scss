@@ -11,3 +11,15 @@
     font-size: 20px;
     color: #222;
 }
+
+.nav-item:hover {
+    font-weight: bold;
+}
+
+.pages {
+    list-style-type: none;
+}
+
+.page {
+    display: inline-block;
+}
