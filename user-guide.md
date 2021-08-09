@@ -10,6 +10,6 @@ layout: default
 2. Share the url to tsuideni.
 
 ## Delete browsing history
-1. On the 'history' tab, long press the record you want to delete.
+1. In the 'history' tab, long press the record you want to delete.
 2. Select any other records you want to delele.
 3. Confirm to delete the selected records.
