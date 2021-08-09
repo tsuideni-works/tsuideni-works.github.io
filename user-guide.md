@@ -5,7 +5,6 @@ layout: default
 # User Guide
 
 ## Share urls
-
 1. Use the platform browser to navigate to the manga or chapter you want to read.
 2. Share the url to tsuideni.
 
