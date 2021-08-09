@@ -1,38 +1,43 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head>
+<html lang="{{ site.lang | default: " en-US" }}">
+
+<head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-{% seo %}
-    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    {% seo %}
+    <link rel="stylesheet" href="{{ " /assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
-  </head>
-  <body>
+</head>
+
+<body>
     <div class="wrapper">
-      <header>
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
+        <header>
+            {% if site.logo %}
+            <img src="{{site.logo | relative_url}}" alt="Logo" />
+            {% endif %}
 
-        <nav>
-            {% for item in site.data.navigation %}
-              <a href="{{ item.link }}" {% if page.url == item.link %}style="color: #bf0000;"{% endif %}>
-                {{ item.name }}
-              </a>
-            {% endfor %}
-        </nav>
-      </header>
-      <section>
+            <nav>
+                <ul>
+                    {% for item in site.data.navigation %}
+                    <li><a href="{{ item.link }}" {% if page.url==item.link %}style="color: #bf0000;" {% endif %}>
+                            {{ item.name }}
+                        </a></li>
+                    {% endfor %}
+                </ul>
+            </nav>
+        </header>
+        <section>
 
-      {{ content }}
+            {{ content }}
 
-      </section>
-      <footer>
-        <p>This project is maintained by <a href="https://github.com/tsuideni-works">tsuideni works</a></p>
-        <p><small>Hosted on GitHub Pages</small></p>
-      </footer>
+        </section>
+        <footer>
+            <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+            <p><small>Hosted on GitHub Pages</small></p>
+        </footer>
     </div>
-  </body>
+</body>
+
 </html>
