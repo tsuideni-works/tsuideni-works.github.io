@@ -17,6 +17,16 @@
     font-weight: bold;
 }
 
+.chapter {
+    font-size: 20px;
+    color: #222;
+}
+
+.chapter:hover, .chapter:focus {
+    color: #222;
+    font-weight: bold;
+}
+
 .pages {
     list-style-type: none;
 }

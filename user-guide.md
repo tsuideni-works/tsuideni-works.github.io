@@ -15,7 +15,7 @@ layout: default
 3. Confirm to delete the selected records.
 
 ## Supported websites
-dm5 (zh)
-manhuagui (zh)
-manga1000 (ja)
+dm5 (zh)<br />
+manhuagui (zh)<br />
+manga1000 (ja)<br />
 manganato (en)
