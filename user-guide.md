@@ -13,3 +13,9 @@ layout: default
 1. In the 'history' tab, long press the record you want to delete.
 2. Select any other records you want to delele.
 3. Confirm to delete the selected records.
+
+## Supported websites
+dm5 (zh)
+manhuagui (zh)
+manga1000 (ja)
+manganato (en)
