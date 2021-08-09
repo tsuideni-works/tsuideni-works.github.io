@@ -15,8 +15,16 @@
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" height="100px" style="display: block;margin-left: auto;margin-right: auto;" />
         {% endif %}
+        
+        {% for item in site.data.navigation %}
+          <div>
+            <a class="nav-item" href="{{ item.link }}" {% if page.url==item.link %}style="color: #bf0000;" {% endif %}>
+                {{ item.name }}
+            </a>
+          </div>
+        {% endfor %}
 
-        <ul class="nav-bar">
+        <!-- <ul class="nav-bar">
             {% for item in site.data.navigation %}
             <li>
                 <a class="nav-item" href="{{ item.link }}" {% if page.url==item.link %}style="color: #bf0000;" {% endif %}>
@@ -24,7 +32,7 @@
                 </a>
             </li>
             {% endfor %}
-        </ul>
+        </ul> -->
       </header>
       <section>
 
