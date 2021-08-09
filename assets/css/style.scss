@@ -3,6 +3,12 @@
 
 @import "{{ site.theme }}";
 
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .nav-item {
     font-size: 20px;
     color: #222;
@@ -10,6 +16,16 @@
 
 .nav-item:hover, .nav-item:focus {
     color: #222;
+    font-weight: bold;
+}
+
+.github-page {
+    color:#bf0000;
+    text-decoration:none;
+}
+  
+.github-page:hover, .github-page:focus {
+    color:#bf0000;
     font-weight: bold;
 }
 

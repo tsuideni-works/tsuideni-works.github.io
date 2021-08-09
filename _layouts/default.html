@@ -13,7 +13,7 @@
     <div class="wrapper">
       <header>
         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" height="100px" style="display: block;margin-left: auto;margin-right: auto;" />
+          <img class="logo" src="{{site.logo | relative_url}}" alt="Logo" height="100px" />
         {% endif %}
         
         {% for item in site.data.navigation %}
@@ -30,7 +30,7 @@
 
       </section>
       <footer>
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        <p>This project is maintained by <a class="github-page" href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         <p><small>Hosted on GitHub Pages</small></p>
       </footer>
     </div>
