@@ -12,5 +12,5 @@ layout: default
 支援兩種閱讀模式。
 
 Manga browser, and that is it.<br />
-Features include bookmarking, check for update and save reading progress.<br />
+Features include bookmarking, checking for update and saving reading progress.<br />
 Supports two reading modes.
