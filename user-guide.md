@@ -10,15 +10,15 @@ layout: default
 
 ### iOS
 
-#### Manga
+**Manga**
 
-#### Chapter
+**Chapter**
 
 ### Android
 
-#### Manga
+**Manga**
 
-#### Chapter
+**Chapter**
 
 ## Delete browsing history
 1. In the 'history' tab, long press the record you want to delete.
