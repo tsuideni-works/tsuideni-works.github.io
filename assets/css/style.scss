@@ -74,6 +74,10 @@
 }
 
 @media print, screen and (max-width: 960px) {
+    header {
+        padding: 0;
+    }
+
     .nav-bar {
         overflow: auto;
         white-space: nowrap;
