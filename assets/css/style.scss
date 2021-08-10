@@ -13,6 +13,7 @@
     font-size: 20px;
     color: #222;
     padding: 10px;
+    display: block;
 }
 
 .nav-item:hover, .nav-item:focus {
@@ -70,4 +71,23 @@
 .chapter:hover, .chapter:focus {
     color: #222;
     font-weight: bold;
+}
+
+@media print, screen and (max-width: 960px) {
+    .nav-bar {
+        overflow: auto;
+        white-space: nowrap;
+    }
+
+    .nav-item {
+        font-size: 20px;
+        color: #222;
+        padding: 10px;
+        display: inline-block;
+    }
+    
+    .nav-item:hover, .nav-item:focus {
+        color: #222;
+        font-weight: bold;
+    }
 }
