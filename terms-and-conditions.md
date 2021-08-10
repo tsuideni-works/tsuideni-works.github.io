@@ -9,9 +9,9 @@ This is an agreement between you and tsuideni-works (with its affiliates, "we" o
 
 **Definitions**
 <br />
-For the purposes of this Agreement:
-"Application" means software we make available that permits users to browse Content on mobile devices.
-"Content" means digital content displayed in the Application, such as text, image, and other content.
+For the purposes of this Agreement:<br />
+"Application" means software we make available that permits users to browse Content on mobile devices.<br />
+"Content" means digital content displayed in the Application, such as text, image, and other content.<br />
 "Content Provider" means the third party owns or hosts the Content.
 
 **Content**
