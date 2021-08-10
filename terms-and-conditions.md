@@ -24,7 +24,7 @@ By using the Application to browse the Contents, you agree with the terms of use
 
 **Intellectual Property Protection**
 <br />
-We will respond to alleged infringement notices that comply with the Digital Millennium Copyright Act of 1998 (“DMCA”). If you believe that your copyrighted work has been copied in a way that constitutes copyright infringement and is accessible via the Application, plea notify us as set forth in the DMCA. For your complaint to be valid under the DMCA, you must provide the following information in writing:
+We will respond to alleged infringement notices that comply with the Digital Millennium Copyright Act of 1998 (“DMCA”). If you believe that your copyrighted work has been copied in a way that constitutes copyright infringement and is accessible via the Application, please notify us via [email](mailto:tsuideniworks@gmail.com) as set forth in the DMCA. For your complaint to be valid under the DMCA, you must provide the following information in writing:
 1.	An electronic or physical signature of a person authorized to act on behalf of the copyright owner;
 2.	Identification of the copyrighted work that you claim has been infringed;
 3.	Identification of the material that is claimed to be infringing and where it is located on the Application;
