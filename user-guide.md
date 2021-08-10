@@ -6,7 +6,7 @@ layout: default
 
 ## Share urls
 1. Use the browser (safari for iOS and chrome for Android) to navigate to the manga or chapter you want to read.
-2. Share the url to tsuideni.
+2. Share the url to the application.
 
 ### iOS
 
