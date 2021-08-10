@@ -50,7 +50,7 @@ You agree with our [privacy policy](https://tsuideni-works.github.io/terms-and-c
 # Disclaimer
 **updated on 10/8/2021**
 
-We do not own or hold any of contents displayed in the application. The displayed contents shall be used for comment and research purposes only.
+We do not own or host any of contents displayed in the application. The displayed contents are used for comment and research purposes only.
 
 # Privacy Policy
 **updated on 10/8/2021**
