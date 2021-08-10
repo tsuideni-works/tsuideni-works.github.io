@@ -3,15 +3,45 @@ layout: default
 ---
 
 # Disclaimer
-**updated on 8/8/2021**
-<br />
-1. The application is a specific designed web browser to read manga.
-2. We do not own any contents showed in the application.
+**updated on 10/8/2021**
+
+We do not own or hold any of contents displayed in the application. The displayed contents shall be used for comment and research purposes only.
 
 # Terms of Use
 **updated on 8/8/2021**
-<br />
+
+This is an agreement between you and tsuideni-works (with its affiliates, "we" or "us"). By using the Application, you agree to be bound by the terms of this Agreement on behalf of yourself. If you do not accept the terms of this Agreement, then you may not use the Application.
+
+**Definitions**
+For the purposes of this Agreement:
+"Application" means software we make available that permits users to browse Content on mobile devices.
+"Content" means digital content displayed in the Application, such as text, image, and other content.
+"Content Provider" means the third party owns or hosts the Content.
+
+**Content**
+We do not own and host any of Contents displayed in the Application. All Contents are owned or hosted by the Content Providers. The Content Provider of the Content is showed in the Application. We have no liability on any copyright infringements by the Content Provider.
+
+The Application only temporarily caches the Contents for your use and does not permanently store any Contents on your devices. All temporarily cached Contents will be finally removed from your devices.
+
+By using the Application to browse the Contents, you agree with the terms of use or equivalent agreement of the Content Provider. We have no liability on any conflicts between you and the Content Provider.
+
+**Intellectual Property Protection**
+We will respond to alleged infringement notices that comply with the Digital Millennium Copyright Act of 1998 (“DMCA”). If you believe that your copyrighted work has been copied in a way that constitutes copyright infringement and is accessible via the Application, plea notify us as set forth in the DMCA. For your complaint to be valid under the DMCA, you must provide the following information in writing:
+1.	An electronic or physical signature of a person authorized to act on behalf of the copyright owner;
+2.	Identification of the copyrighted work that you claim has been infringed;
+3.	Identification of the material that is claimed to be infringing and where it is located on the Application;
+4.	Information reasonably sufficient to permit us to contact you, such as your address, telephone number and email address;
+5.	A statement that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent or law; and
+6.	A statement, made under penalty of perjury, that the above information is accurate, and that you are the copyright owner or are authorized to act on behalf of the owner.
+
+**Prohibited Uses**
+Redistribution and modification of the Application are prohibited without our consent.
+
+**Disclaimer**
+You agree with our disclaimer.
+
+**Privacy Policy**
+You agree with our privacy policy. 
 
 # Privacy Policy
 **updated on 8/8/2021**
-<br />
