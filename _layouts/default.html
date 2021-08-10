@@ -16,7 +16,7 @@
           <img class="logo" src="{{site.logo | relative_url}}" alt="Logo" height="100px" />
         {% endif %}
         
-        <div>
+        <div class="nav-bar">
           {% for item in site.data.navigation %}
             <a class="nav-item" href="{{ item.link }}" {% if page.url==item.link %}style="color: #bf0000;" {% endif %}>
               {{ item.name }}
