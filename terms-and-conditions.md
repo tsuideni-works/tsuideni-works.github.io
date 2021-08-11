@@ -23,7 +23,7 @@ We do not own and host any of Contents displayed in the Application. All Content
 
 The Application only temporarily caches the Contents for your use and does not permanently store any Contents on your devices. All temporarily cached Contents will be finally removed from your devices.
 
-By using the Application to browse the Contents, you agree with the terms of use or equivalent agreement of the Content Provider. We have no liability on any conflicts between you and the Content Provider.
+By using the Application to browse the Contents, you agree to the terms of use or equivalent agreement of the Content Provider. We have no liability on any conflicts between you and the Content Provider.
 
 **Intellectual Property Protection**
 
@@ -41,11 +41,11 @@ Redistribution and modification of the Application are prohibited without our co
 
 **Disclaimer**
 
-You agree with our [disclaimer](https://tsuideni-works.github.io/terms-and-conditions.html#disclaimer).
+You agree to our [disclaimer](https://tsuideni-works.github.io/terms-and-conditions.html#disclaimer).
 
 **Privacy Policy**
 
-You agree with our [privacy policy](https://tsuideni-works.github.io/terms-and-conditions.html#privacy-policy). 
+You agree to our [privacy policy](https://tsuideni-works.github.io/terms-and-conditions.html#privacy-policy). 
 
 # Disclaimer
 **updated on 10/8/2021**
