@@ -12,11 +12,15 @@ layout: default
 
 **Manga**
 
-![Open manga on iOS](https://tsuideni-works.github.io/assets/img/openManga_ios.gif)
+<p align="center">
+  <img src="https://tsuideni-works.github.io/assets/img/openManga_ios.gif" alt="Open manga on iOS" />
+</p>
 
 **Chapter**
 
-![Open chapter on iOS](https://tsuideni-works.github.io/assets/img/openChapter_ios.gif)
+<p align="center">
+  <img src="https://tsuideni-works.github.io/assets/img/openChapter_ios.gif" alt="Open chapter on iOS" />
+</p>
 
 ### Android
 
@@ -29,7 +33,9 @@ layout: default
 2. Select any other records you want to delele.
 3. Confirm to delete the selected records.
 
-![Delete browsing history](https://tsuideni-works.github.io/assets/img/deleteHistory.gif)
+<p align="center">
+  <img src="https://tsuideni-works.github.io/assets/img/deleteHistory.gif" alt="Delete browsing history" />
+</p>
 
 ## Supported websites
 - dm5 (zh)
