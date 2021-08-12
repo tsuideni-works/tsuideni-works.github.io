@@ -26,7 +26,15 @@ layout: default
 
 **Manga**
 
+<p align="center">
+  <img src="https://tsuideni-works.github.io/assets/img/openManga_android.gif" alt="Open manga on Android" />
+</p>
+
 **Chapter**
+
+<p align="center">
+  <img src="https://tsuideni-works.github.io/assets/img/openChapter_android.gif" alt="Open chapter on Android" />
+</p>
 
 ## Delete browsing history
 1. In the 'history' tab, long press the record you want to delete.
