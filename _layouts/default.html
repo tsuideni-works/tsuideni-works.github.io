@@ -53,63 +53,63 @@
       </section>
       <footer>
         {% if page.title == "index" %}
-          <div class="lang-bar">
+          <span class="lang-bar">
             {% for item in site.data.language-index %}
               <a class="lang-item" href="{{ item.link }}" {% if page.url==item.link %}style="color: #bf0000;" {% endif %}>
                 {{ item.name }}
               </a>
             {% endfor %}
-          </div>
+            </span>
         {% endif %}
 
         {% if page.title == "guide" %}
-          <div class="lang-bar">
+          <span class="lang-bar">
             {% for item in site.data.language-guide %}
               <a class="lang-item" href="{{ item.link }}" {% if page.url==item.link %}style="color: #bf0000;" {% endif %}>
                 {{ item.name }}
               </a>
             {% endfor %}
-          </div>
+          </span>
         {% endif %}
 
         {% if page.title == "terms" %}
-          <div class="lang-bar">
+          <span class="lang-bar">
             {% for item in site.data.language-terms %}
               <a class="lang-item" href="{{ item.link }}" {% if page.url==item.link %}style="color: #bf0000;" {% endif %}>
                 {{ item.name }}
               </a>
             {% endfor %}
-          </div>
+          </span>
         {% endif %}
 
         {% if page.title == "demo" %}
-          <div class="lang-bar">
+          <span class="lang-bar">
             {% for item in site.data.language-demo %}
               <a class="lang-item" href="{{ item.link }}" {% if page.url==item.link %}style="color: #bf0000;" {% endif %}>
                 {{ item.name }}
               </a>
             {% endfor %}
-          </div>
+          </span>
         {% endif %}
 
         {% if page.title == "manga" %}
-          <div class="lang-bar">
+          <span class="lang-bar">
             {% for item in site.data.language-manga %}
               <a class="lang-item" href="{{ item.link }}" {% if page.url==item.link %}style="color: #bf0000;" {% endif %}>
                 {{ item.name }}
               </a>
             {% endfor %}
-          </div>
+          </span>
         {% endif %}
 
         {% if page.title == "pages" %}
-          <div class="lang-bar">
+          <span class="lang-bar">
             {% for item in site.data.language-pages %}
               <a class="lang-item" href="{{ item.link }}" {% if page.url==item.link %}style="color: #bf0000;" {% endif %}>
                 {{ item.name }}
               </a>
             {% endfor %}
-          </div>
+          </span>
         {% endif %}
 
         <p>This project is maintained by <a class="github-page" href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
