@@ -21,6 +21,21 @@
     font-weight: bold;
 }
 
+.lang-bar {
+    overflow: auto;
+}
+
+.lang-item {
+    color: #222;
+    padding-right: 10px;
+    display: block;
+}
+
+.lang-item:hover, .lang-item:focus {
+    color: #222;
+    font-weight: bold;
+}
+
 .github-page {
     color:#bf0000;
     text-decoration:none;

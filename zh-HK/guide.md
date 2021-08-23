@@ -1,22 +1,24 @@
 ---
 layout: default
+lang: zh-HK
+title: guide
 ---
 
-# User Guide
+# 使用說明
 
-## Share urls
-1. Use the browser (Safari on iOS and Chrome on Android) to navigate to the manga or chapter you want to read, e.g. [here](https://tsuideni-works.github.io/manga.html) or [here](https://tsuideni-works.github.io/pages.html). The web view launched in the application will not work.
-2. Share the url to the application. On iOS, share button > pick the application. On Android, menu button > Share... > pick the applcation.
+## 分享網址
+1. 用瀏覽器（iOS用Safari、Android用Chrome）開你想睇嘅漫畫或者章節，例如[呢度](https://tsuideni-works.github.io/manga.html)或[呢度](https://tsuideni-works.github.io/pages.html)。呢個應用程式入面個瀏覽器係唔啱用。
+2. 將網址分享比呢個應用程式。係iOS，「分享」掣 > 揀呢個應用程式。係Android，「更多」掣 > 共用... > 揀呢個應用程式。
 
 ### iOS
 
-**Manga**
+**漫畫**
 
 <p align="center">
   <img src="https://tsuideni-works.github.io/assets/img/openManga_ios.gif" alt="Open manga on iOS" />
 </p>
 
-**Chapter**
+**章節**
 
 <p align="center">
   <img src="https://tsuideni-works.github.io/assets/img/openChapter_ios.gif" alt="Open chapter on iOS" />
@@ -24,28 +26,28 @@ layout: default
 
 ### Android
 
-**Manga**
+**漫畫**
 
 <p align="center">
   <img src="https://tsuideni-works.github.io/assets/img/openManga_android.gif" alt="Open manga on Android" />
 </p>
 
-**Chapter**
+**章節**
 
 <p align="center">
   <img src="https://tsuideni-works.github.io/assets/img/openChapter_android.gif" alt="Open chapter on Android" />
 </p>
 
-## Delete browsing history
-1. In the 'history' tab, long press the record you want to delete.
-2. Select any other records you want to delele.
-3. Confirm to delete the selected records.
+## 刪除瀏覽記錄
+1. 係「瀏覽記錄」分頁入面，長按要刪除嘅記錄。
+2. 選取其他要刪除嘅記錄。
+3. 確認刪除所有選取嘅記錄。
 
 <p align="center">
   <img src="https://tsuideni-works.github.io/assets/img/deleteHistory.gif" alt="Delete browsing history" />
 </p>
 
-## Supported websites
+## 支援網站
 - dm5 (zh)
 - manhuagui (zh)
 - manga1000 (ja)

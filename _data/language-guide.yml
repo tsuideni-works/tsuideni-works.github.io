@@ -1,0 +1,6 @@
+- name: 廣東話
+  link: /zh-HK/guide.html
+- name: 繁體中文
+  link: /zh/guide.html
+- name: English
+  link: /en/guide.html

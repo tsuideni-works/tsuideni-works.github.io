@@ -15,14 +15,36 @@
         {% if site.logo %}
           <img class="logo" src="{{site.logo | relative_url}}" alt="Logo" height="100px" />
         {% endif %}
-        
-        <div class="nav-bar">
-          {% for item in site.data.navigation %}
-            <a class="nav-item" href="{{ item.link }}" {% if page.url==item.link %}style="color: #bf0000;" {% endif %}>
-              {{ item.name }}
-            </a>
-          {% endfor %}
-        </div>
+
+        {% if page.lang == "en" %}
+          <div class="nav-bar">
+            {% for item in site.data.navigation-en %}
+              <a class="nav-item" href="{{ item.link }}" {% if page.url==item.link %}style="color: #bf0000;" {% endif %}>
+                {{ item.name }}
+              </a>
+            {% endfor %}
+          </div>
+        {% endif %}
+
+        {% if page.lang == "zh" %}
+          <div class="nav-bar">
+            {% for item in site.data.navigation-zh %}
+              <a class="nav-item" href="{{ item.link }}" {% if page.url==item.link %}style="color: #bf0000;" {% endif %}>
+                {{ item.name }}
+              </a>
+            {% endfor %}
+          </div>
+        {% endif %}
+
+        {% if page.lang == "zh-HK" %}
+          <div class="nav-bar">
+            {% for item in site.data.navigation-zh-HK %}
+              <a class="nav-item" href="{{ item.link }}" {% if page.url==item.link %}style="color: #bf0000;" {% endif %}>
+                {{ item.name }}
+              </a>
+            {% endfor %}
+          </div>
+        {% endif %}
       </header>
       <section>
 
@@ -30,6 +52,66 @@
 
       </section>
       <footer>
+        {% if page.title == "index" %}
+          <div class="lang-bar">
+            {% for item in site.data.language-index %}
+              <a class="lang-item" href="{{ item.link }}" {% if page.url==item.link %}style="color: #bf0000;" {% endif %}>
+                {{ item.name }}
+              </a>
+            {% endfor %}
+          </div>
+        {% endif %}
+
+        {% if page.title == "guide" %}
+          <div class="lang-bar">
+            {% for item in site.data.language-guide %}
+              <a class="lang-item" href="{{ item.link }}" {% if page.url==item.link %}style="color: #bf0000;" {% endif %}>
+                {{ item.name }}
+              </a>
+            {% endfor %}
+          </div>
+        {% endif %}
+
+        {% if page.title == "terms" %}
+          <div class="lang-bar">
+            {% for item in site.data.language-terms %}
+              <a class="lang-item" href="{{ item.link }}" {% if page.url==item.link %}style="color: #bf0000;" {% endif %}>
+                {{ item.name }}
+              </a>
+            {% endfor %}
+          </div>
+        {% endif %}
+
+        {% if page.title == "demo" %}
+          <div class="lang-bar">
+            {% for item in site.data.language-demo %}
+              <a class="lang-item" href="{{ item.link }}" {% if page.url==item.link %}style="color: #bf0000;" {% endif %}>
+                {{ item.name }}
+              </a>
+            {% endfor %}
+          </div>
+        {% endif %}
+
+        {% if page.title == "manga" %}
+          <div class="lang-bar">
+            {% for item in site.data.language-manga %}
+              <a class="lang-item" href="{{ item.link }}" {% if page.url==item.link %}style="color: #bf0000;" {% endif %}>
+                {{ item.name }}
+              </a>
+            {% endfor %}
+          </div>
+        {% endif %}
+
+        {% if page.title == "pages" %}
+          <div class="lang-bar">
+            {% for item in site.data.language-pages %}
+              <a class="lang-item" href="{{ item.link }}" {% if page.url==item.link %}style="color: #bf0000;" {% endif %}>
+                {{ item.name }}
+              </a>
+            {% endfor %}
+          </div>
+        {% endif %}
+
         <p>This project is maintained by <a class="github-page" href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         <p><small>Hosted on GitHub Pages</small></p>
       </footer>

@@ -1,7 +1,7 @@
 ---
 layout: default
 lang: en
-title: index 
+title: index
 ---
 
 # tsuideni

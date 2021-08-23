@@ -1,11 +1,13 @@
 ---
 layout: default
+lang: en
+title: terms
 ---
 
 # Terms of Use
-**updated on 10/8/2021**
+**updated on 23/8/2021**
 
-This is an agreement between you and tsuideni-works (with its affiliates, "we" or "us"). By using the Application, you agree to be bound by the terms of this Agreement on behalf of yourself. If you do not accept the terms of this Agreement, then you may not use the Application.
+This is an agreement between you and tsuideni-works ("we" or "us"). By using the Application, you agree to be bound by the terms of this Agreement on behalf of yourself. If you do not accept the terms of this Agreement, then you may not use the Application.
 
 **Definitions**
 
