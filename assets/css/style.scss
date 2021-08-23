@@ -23,13 +23,12 @@
 
 .lang-bar {
     overflow: auto;
-    white-space: nowrap;
 }
 
 .lang-item {
     color: #222;
     padding-right: 10px;
-    display: block;
+    display: inline-block;
 }
 
 .lang-item:hover, .lang-item:focus {
