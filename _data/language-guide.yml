@@ -1,6 +1,9 @@
 - name: 廣東話
+  code: zh-HK
   link: /zh-HK/guide.html
 - name: 繁體中文
+  code: zh
   link: /zh/guide.html
 - name: English
+  code: en
   link: /en/guide.html

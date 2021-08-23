@@ -7,7 +7,7 @@ title: guide
 # User Guide
 
 ## Share urls
-1. Use the browser (Safari on iOS and Chrome on Android) to navigate to the manga or chapter you want to read, e.g. [here](https://tsuideni-works.github.io/manga.html) or [here](https://tsuideni-works.github.io/pages.html). The web view launched in the application will not work.
+1. Use the browser (Safari on iOS and Chrome on Android) to navigate to the manga or chapter you want to read, e.g. [here](https://tsuideni-works.github.io/en/manga.html) or [here](https://tsuideni-works.github.io/en/pages.html). The web view launched in the application will not work.
 2. Share the url to the application. On iOS, share button > pick the application. On Android, menu button > Share... > pick the applcation.
 
 ### iOS

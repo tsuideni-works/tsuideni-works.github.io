@@ -7,7 +7,7 @@ title: guide
 # 使用說明
 
 ## 分享網址
-1. 用瀏覽器（iOS用Safari、Android用Chrome）開你想睇嘅漫畫或者章節，例如[呢度](https://tsuideni-works.github.io/manga.html)或[呢度](https://tsuideni-works.github.io/pages.html)。呢個應用程式入面個瀏覽器係唔啱用。
+1. 用瀏覽器（iOS用Safari、Android用Chrome）開你想睇嘅漫畫或者章節，例如[呢度](https://tsuideni-works.github.io/zh-HK/manga.html)或[呢度](https://tsuideni-works.github.io/zh-HK/pages.html)。呢個應用程式入面個瀏覽器係唔啱用。
 2. 將網址分享比呢個應用程式。係iOS，「分享」掣 > 揀呢個應用程式。係Android，「更多」掣 > 共用... > 揀呢個應用程式。
 
 ### iOS
