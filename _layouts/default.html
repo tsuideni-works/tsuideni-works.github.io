@@ -16,13 +16,13 @@
           <img class="logo" src="{{site.logo | relative_url}}" alt="Logo" height="100px" />
         {% endif %}
         
-        <div class="nav-bar"></div>
-          {% for item in site.data.nav %}
-            <a class="nav-item" href="/zh/">
-              test
-            </a>
-          {% endfor %}
-        </div>
+        {% for item in site.data.nav %}
+          <div class="nav-bar">
+              <a class="nav-item" href="/zh/">
+                test
+              </a>
+          </div>
+        {% endfor %}
       </header>
       <section>
 
