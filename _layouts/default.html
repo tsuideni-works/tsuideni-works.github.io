@@ -16,7 +16,17 @@
           <img class="logo" src="{{site.logo | relative_url}}" alt="Logo" height="100px" />
         {% endif %}
 
-        {% for language in site.data.navigation %}
+        {% if page.lang == "en" %}
+          <div class="nav-bar">
+            {% for item in site.data.navigation-en %}
+              <a class="nav-item" href="{{ item.link }}" {% if page.title==item.title %}style="color: #bf0000;" {% endif %}>
+                {{ item.name }}
+              </a>
+            {% endfor %}
+          </div>
+        {% endif %}
+
+        <!-- {% for language in site.data.navigation %}
           {% if page.lang == language.lang %}
             <div class="nav-bar">
               {% for item in language.route %}
@@ -26,7 +36,7 @@
               {% endfor %}
             </div>
           {% endif %}
-        {% endfor %}
+        {% endfor %} -->
       </header>
       <section>
 
