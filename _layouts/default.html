@@ -36,7 +36,7 @@
       <footer>
         <div class="lang-bar">
           {% for language in site.data.lang %}
-            {% for tab in item.route %}
+            {% for tab in language.route %}
               {% if page.title == tab.title %}
                 <a class="lang-item" href="{{ tab.link }}" {% if page.lang==language.lang %}style="color: #bf0000;" {% endif %}>
                   {{ language.name }}
