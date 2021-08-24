@@ -5,7 +5,7 @@ title: terms
 ---
 
 # Terms of Use
-**updated on 23/8/2021**
+**updated on 24/8/2021**
 
 This is an agreement between you and tsuideni-works ("we" or "us"). By using the Application, you agree to be bound by the terms of this Agreement on behalf of yourself. If you do not accept the terms of this Agreement, then you may not use the Application.
 
@@ -50,12 +50,12 @@ You agree to our [disclaimer](https://tsuideni-works.github.io/en/terms.html#dis
 You agree to our [privacy policy](https://tsuideni-works.github.io/en/terms.html#privacy-policy). 
 
 # Disclaimer
-**updated on 10/8/2021**
+**updated on 24/8/2021**
 
 We do not own or host any of contents displayed in the application. The displayed contents are used for comment and research purposes only.
 
 # Privacy Policy
-**updated on 10/8/2021**
+**updated on 24/8/2021**
 
 **Data Collection**
 
