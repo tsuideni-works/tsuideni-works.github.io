@@ -17,11 +17,13 @@
         {% endif %}
         
         {% for item in site.data.nav %}
-          <div class="nav-bar">
-              <a class="nav-item" href="/zh/">
-                test
-              </a>
-          </div>
+          {% if page.lang == item.lang %}
+            <div class="nav-bar">
+                <a class="nav-item" href="/zh/">
+                  test
+                </a>
+            </div>
+          {% endif %}
         {% endfor %}
       </header>
       <section>
