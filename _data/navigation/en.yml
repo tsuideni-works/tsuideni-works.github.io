@@ -1,0 +1,12 @@
+- name: About
+  title: index
+  link: /en/
+- name: User Guide
+  title: guide
+  link: /en/guide.html
+- name: Terms and Conditions
+  title: terms
+  link: /en/terms.html
+- name: Demo
+  title: demo
+  link: /en/demo.html

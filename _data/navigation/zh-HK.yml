@@ -1,0 +1,12 @@
+- name: 關於
+  title: index
+  link: /zh-HK/
+- name: 使用說明
+  title: guide
+  link: /zh-HK/guide.html
+- name: 使用條款
+  title: terms
+  link: /zh/terms.html
+- name: 範例
+  title: demo
+  link: /zh/demo.html

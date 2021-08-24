@@ -16,10 +16,10 @@
           <img class="logo" src="{{site.logo | relative_url}}" alt="Logo" height="100px" />
         {% endif %}
 
-        {% for nav in site.data.navigation %}
-          {% if page.lang == nav.lang %}
+        {% for language in site.data.navigation %}
+          {% if page.lang == language.lang %}
             <div class="nav-bar">
-              {% for route in nav.route %}
+              {% for route in language.route %}
                 <a class="nav-item" href="{{ route.link }}" {% if page.title==route.title %}style="color: #bf0000;" {% endif %}>
                   {{ route.name }}
                 </a>

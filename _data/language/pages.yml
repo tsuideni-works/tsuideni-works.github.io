@@ -1,0 +1,9 @@
+- name: 廣東話
+  lang: zh-HK
+  link: /zh/pages.html
+- name: 繁體中文
+  lang: zh
+  link: /zh/pages.html
+- name: English
+  lang: en
+  link: /en/pages.html
