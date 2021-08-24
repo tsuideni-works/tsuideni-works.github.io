@@ -1,8 +1,10 @@
 ---
 layout: default
 lang: en
-title: index 
+title: index
 ---
+
+<!-- same as index.md in 'en' folder -->
 
 # tsuideni
 Manga browser.<br />
