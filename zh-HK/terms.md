@@ -1,6 +1,6 @@
 ---
 layout: default
-lang: zh
+lang: zh-HK
 title: terms
 ---
 
@@ -44,11 +44,11 @@ title: terms
 
 **免責聲明**
 
-您同意我們的[免責聲明](https://tsuideni-works.github.io/zh/terms.html#免責聲明)。
+您同意我們的[免責聲明](https://tsuideni-works.github.io/zh-HK/terms.html#免責聲明)。
 
 **私隱政策**
 
-您同意我們的[私隱政策](https://tsuideni-works.github.io/zh/terms.html#私隱政策)。
+您同意我們的[私隱政策](https://tsuideni-works.github.io/zh-HK/terms.html#私隱政策)。
 
 # 免責聲明
 **更新於23/8/2021**
