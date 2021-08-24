@@ -20,8 +20,8 @@
           {% if page.lang == item.lang %}
             <div class="nav-bar">
                 {% for path in item.route %}
-                  <a class="nav-item" href="/zh/">
-                    test
+                  <a class="nav-item" href="{{ path.link }}" {% if page.title==path.title %}style="color: #bf0000;" {% endif %}>
+                    {{ path.name }}
                   </a>
                 {% endfor %}
             </div>
