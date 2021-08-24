@@ -15,12 +15,34 @@
         {% if site.logo %}
           <img class="logo" src="{{site.logo | relative_url}}" alt="Logo" height="100px" />
         {% endif %}
-        
-        {% for item in site.data.navigation %}
+
+        {% if page.lang == "en" %}
           <div class="nav-bar">
-            <a class="nav-item" href="/zh/">
-              test
-            </a>
+            {% for item in site.data.navigation-en %}
+              <a class="nav-item" href="{{ item.link }}" {% if page.title==item.title %}style="color: #bf0000;" {% endif %}>
+                {{ item.name }}
+              </a>
+            {% endfor %}
+          </div>
+        {% endif %}
+
+        {% if page.lang == "zh" %}
+          <div class="nav-bar">
+            {% for item in site.data.navigation-zh %}
+              <a class="nav-item" href="{{ item.link }}" {% if page.title==item.title %}style="color: #bf0000;" {% endif %}>
+                {{ item.name }}
+              </a>
+            {% endfor %}
+          </div>
+        {% endif %}
+
+        {% if page.lang == "zh-HK" %}
+          <div class="nav-bar">
+            {% for item in site.data.navigation-zh-HK %}
+              <a class="nav-item" href="{{ item.link }}" {% if page.title==item.title %}style="color: #bf0000;" {% endif %}>
+                {{ item.name }}
+              </a>
+            {% endfor %}
           </div>
         {% endif %}
       </header>
