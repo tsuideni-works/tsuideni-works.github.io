@@ -4,7 +4,7 @@ lang: zh-HK
 title: terms
 ---
 
-<!-- same as zh -->
+<!-- same as zh, except the urls -->
 
 # 使用條款
 **更新於24/8/2021**
