@@ -16,14 +16,14 @@
           <img class="logo" src="{{site.logo | relative_url}}" alt="Logo" height="100px" />
         {% endif %}
         
-        {% for item in site.data.nav %}
-          {% if page.lang == item.lang %}
+        {% for language in site.data.nav %}
+          {% if page.lang == language.lang %}
             <div class="nav-bar">
-                {% for path in item.route %}
-                  <a class="nav-item" href="{{ path.link }}" {% if page.title==path.title %}style="color: #bf0000;" {% endif %}>
-                    {{ path.name }}
-                  </a>
-                {% endfor %}
+              {% for tab in language.route %}
+                <a class="nav-item" href="{{ tab.link }}" {% if page.title==tab.title %}style="color: #bf0000;" {% endif %}>
+                  {{ tab.name }}
+                </a>
+              {% endfor %}
             </div>
           {% endif %}
         {% endfor %}
@@ -34,65 +34,16 @@
 
       </section>
       <footer>
-        {% if page.title == "index" %}
-          <div class="lang-bar">
-            {% for item in site.data.language-index %}
-              <a class="lang-item" href="{{ item.link }}" {% if page.lang==item.code %}style="color: #bf0000;" {% endif %}>
-                {{ item.name }}
+        <!-- <div class="lang-bar"></div>
+          {% for language in site.data.lang %}
+            {% for tab in item.route %}
+              <a class="lang-item" href="{{ tab.link }}" {% if page.title==tab.title %}style="color: #bf0000;" {% endif %}>
+                {{ tab.name }}
               </a>
             {% endfor %}
-            </div>
-        {% endif %}
+          {% endfor %}
+      </div> -->
 
-        {% if page.title == "guide" %}
-          <div class="lang-bar">
-            {% for item in site.data.language-guide %}
-              <a class="lang-item" href="{{ item.link }}" {% if page.lang==item.code %}style="color: #bf0000;" {% endif %}>
-                {{ item.name }}
-              </a>
-            {% endfor %}
-          </div>
-        {% endif %}
-
-        {% if page.title == "terms" %}
-          <div class="lang-bar">
-            {% for item in site.data.language-terms %}
-              <a class="lang-item" href="{{ item.link }}" {% if page.lang==item.code %}style="color: #bf0000;" {% endif %}>
-                {{ item.name }}
-              </a>
-            {% endfor %}
-          </div>
-        {% endif %}
-
-        {% if page.title == "demo" %}
-          <div class="lang-bar">
-            {% for item in site.data.language-demo %}
-              <a class="lang-item" href="{{ item.link }}" {% if page.lang==item.code %}style="color: #bf0000;" {% endif %}>
-                {{ item.name }}
-              </a>
-            {% endfor %}
-          </div>
-        {% endif %}
-
-        {% if page.title == "manga" %}
-          <div class="lang-bar">
-            {% for item in site.data.language-manga %}
-              <a class="lang-item" href="{{ item.link }}" {% if page.lang==item.code %}style="color: #bf0000;" {% endif %}>
-                {{ item.name }}
-              </a>
-            {% endfor %}
-          </div>
-        {% endif %}
-
-        {% if page.title == "pages" %}
-          <div class="lang-bar">
-            {% for item in site.data.language-pages %}
-              <a class="lang-item" href="{{ item.link }}" {% if page.lang==item.code %}style="color: #bf0000;" {% endif %}>
-                {{ item.name }}
-              </a>
-            {% endfor %}
-          </div>
-        {% endif %}
 
         <p>This project is maintained by <a class="github-page" href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         <p><small>Hosted on GitHub Pages</small></p>

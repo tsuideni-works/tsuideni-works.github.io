@@ -1,9 +1,0 @@
-- name: 廣東話
-  lang: zh-HK
-  link: /zh/demo.html
-- name: 繁體中文
-  lang: zh
-  link: /zh/demo.html
-- name: English
-  lang: en
-  link: /en/demo.html
