@@ -34,16 +34,17 @@
 
       </section>
       <footer>
-        <!-- <div class="lang-bar"></div>
+        <div class="lang-bar"></div>
           {% for language in site.data.lang %}
             {% for tab in item.route %}
-              <a class="lang-item" href="{{ tab.link }}" {% if page.title==tab.title %}style="color: #bf0000;" {% endif %}>
-                {{ tab.name }}
-              </a>
+              {% if page.title == tab.title %}
+                <a class="lang-item" href="{{ tab.link }}" {% if page.lang==language.lang %}style="color: #bf0000;" {% endif %}>
+                  {{ language.name }}
+                </a>
+              {% endif %}
             {% endfor %}
           {% endfor %}
-      </div> -->
-
+        </div>
 
         <p>This project is maintained by <a class="github-page" href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         <p><small>Hosted on GitHub Pages</small></p>
