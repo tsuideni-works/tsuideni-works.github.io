@@ -43,11 +43,11 @@ Redistribution and modification of the Application are prohibited without our co
 
 **Disclaimer**
 
-You agree to our [disclaimer](https://tsuideni-works.github.io/terms-and-conditions.html#disclaimer).
+You agree to our [disclaimer](https://tsuideni-works.github.io/en/terms.html#disclaimer).
 
 **Privacy Policy**
 
-You agree to our [privacy policy](https://tsuideni-works.github.io/terms-and-conditions.html#privacy-policy). 
+You agree to our [privacy policy](https://tsuideni-works.github.io/en/terms.html#privacy-policy). 
 
 # Disclaimer
 **updated on 10/8/2021**

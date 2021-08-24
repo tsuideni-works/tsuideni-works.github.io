@@ -1,0 +1,45 @@
+- lang: zh-HK
+  name: 廣東話
+  route:
+    - name: index
+      link: /zh-HK/
+    - name: guide
+      link: /zh-HK/guide.html
+    - name: terms
+      link: /zh-HK/terms.html
+    - name: demo
+      link: /zh-HK/demo.html
+    - name: manga
+      link: /zh-HK/manga.html
+    - name: pages
+      link: /zh-HK/pages.html
+- lang: zh
+  name: 繁體中文
+  route:
+    - name: index
+      link: /zh/
+    - name: guide
+      link: /zh/guide.html
+    - name: terms
+      link: /zh/terms.html
+    - name: demo
+      link: /zh/demo.html
+    - name: manga
+      link: /zh/manga.html
+    - name: pages
+      link: /zh/pages.html
+- lang: en
+  name: English
+  route:
+    - name: index
+      link: /en/
+    - name: guide
+      link: /en/guide.html
+    - name: terms
+      link: /en/terms.html
+    - name: demo
+      link: /en/demo.html
+    - name: manga
+      link: /en/manga.html
+    - name: pages
+      link: /en/pages.html
