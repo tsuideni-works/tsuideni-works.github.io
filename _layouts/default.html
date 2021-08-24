@@ -19,9 +19,11 @@
         {% for item in site.data.nav %}
           {% if page.lang == item.lang %}
             <div class="nav-bar">
-                <a class="nav-item" href="/zh/">
-                  test
-                </a>
+                {% for path in item.route %}
+                  <a class="nav-item" href="/zh/">
+                    test
+                  </a>
+                {% endfor %}
             </div>
           {% endif %}
         {% endfor %}
