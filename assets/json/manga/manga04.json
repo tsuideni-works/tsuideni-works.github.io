@@ -1,0 +1,29 @@
+{
+    "id": "manga04",
+    "title": "まちカドまぞく",
+    "pic": "https://drive.google.com/file/d/1vM25tTOT58g7mECk2FzxqCUsqC-JwBVY/view?usp=sharing",
+    "url": "https://www.amazon.co.jp/%E3%81%BE%E3%81%A1%E3%82%AB%E3%83%89%E3%81%BE%E3%81%9E%E3%81%8F-%EF%BC%91%E5%B7%BB-%E3%81%BE%E3%82%93%E3%81%8C%E3%82%BF%E3%82%A4%E3%83%A0KR%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E4%BC%8A%E8%97%A4%E3%81%84%E3%81%A5%E3%82%82-ebook/dp/B018U3689A/",
+    "artists": "伊藤いづも",
+    "chapters": [
+        {
+            "id": "chapter05",
+            "title": "第1章（偽）"
+        }
+    ],
+    "specialChapters": [
+        {
+            "id": "chapter06",
+            "title": "番外（偽）"
+        },
+        {
+            "id": "chapter07",
+            "title": "番外2（偽）"
+        }
+    ],
+    "volumes": [
+        {
+            "id": "chapter04",
+            "title": "第1巻"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": "manga14",
+    "title": "あんハピ♪",
+    "pic": "https://drive.google.com/file/d/1ZNooRUDDg6Gy1hWl3oKLn1DV7mhfIckn/view?usp=sharing",
+    "url": "https://www.amazon.co.jp/%E3%81%82%E3%82%93%E3%83%8F%E3%83%94%E2%99%AA-1-%E3%81%BE%E3%82%93%E3%81%8C%E3%82%BF%E3%82%A4%E3%83%A0KR%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E3%83%95%E3%82%A9%E3%83%AF%E3%83%BC%E3%83%89%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-%E7%90%B4%E6%85%88/dp/4832243195/",
+    "artists": "琴慈",
+    "chapters": [
+        {
+            "id": "chapter15",
+            "title": "第1章（偽）"
+        }
+    ],
+    "specialChapters": [
+        {
+            "id": "chapter16",
+            "title": "番外（偽）"
+        }
+    ],
+    "volumes": [
+        {
+            "id": "chapter14",
+            "title": "第1巻"
+        }
+    ]
+}

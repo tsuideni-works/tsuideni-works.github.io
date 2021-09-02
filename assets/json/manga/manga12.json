@@ -1,0 +1,19 @@
+{
+    "id": "manga12",
+    "title": "ステラのまほう",
+    "pic": "https://drive.google.com/file/d/1nCCmoGlLpaYys62XHJBF1X1wp5fjrPi5/view?usp=sharing",
+    "url": "https://www.amazon.co.jp/%E3%82%B9%E3%83%86%E3%83%A9%E3%81%AE%E3%81%BE%E3%81%BB%E3%81%86-%EF%BC%91%E5%B7%BB-%E3%81%BE%E3%82%93%E3%81%8C%E3%82%BF%E3%82%A4%E3%83%A0KR%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E3%81%8F%E3%82%8D%E3%81%B0%E3%83%BB%EF%BC%B5-ebook/dp/B017D6HWA4/",
+    "artists": "くろば・Ｕ",
+    "chapters": [],
+    "specialChapters": [],
+    "volumes": [
+        {
+            "id": "chapter12",
+            "title": "第1巻"
+        },
+        {
+            "id": "chapter13",
+            "title": "第2巻（偽）"
+        }
+    ]
+}
