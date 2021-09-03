@@ -1,5 +1,8 @@
 {
     "id": "chapter01",
+    "mangaId": "manga01",
+    "mangaTitle": "おちこぼれフルーツタルト",
+    "title": "第1巻",
     "pages": [
         "https://drive.google.com/uc?export=view&id=1wRqZPLKwgktxUfTdrb8VPjqlh_y6gqZt",
         "https://drive.google.com/uc?export=view&id=1A4rF9tBV_DlBwHgbe06P42EQwe-F41H_",
