@@ -1,0 +1,15 @@
+{
+    "id": "manga08",
+    "title": "スロウスタート",
+    "pic": "https://tsuideni-works.github.io/api/pic/covers/manga08.jpg",
+    "url": "https://www.amazon.co.jp/%E3%82%B9%E3%83%AD%E3%82%A6%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88-%EF%BC%91%E5%B7%BB-%E3%81%BE%E3%82%93%E3%81%8C%E3%82%BF%E3%82%A4%E3%83%A0KR%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E7%AF%A4%E8%A6%8B%E5%94%AF%E5%AD%90-ebook/dp/B0151GZJGM/",
+    "artists": "篤見唯子",
+    "chapters": [],
+    "specialChapters": [],
+    "volumes": [
+        {
+            "id": "chapter08",
+            "title": "第1巻"
+        }
+    ]
+}
