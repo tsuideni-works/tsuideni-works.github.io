@@ -38,6 +38,13 @@ title: guide
   <img src="https://tsuideni-works.github.io/assets/img/openChapter_android.gif" alt="Open chapter on Android" />
 </p>
 
+## 收藏同取消收藏漫畫
+1. 㩒「收藏」掣。
+
+<p align="center">
+  <img src="https://tsuideni-works.github.io/assets/img/bookmark.gif" alt="Bookmark and unbookmark" />
+</p>
+
 ## 刪除瀏覽記錄
 1. 係「瀏覽記錄」分頁入面，長按要刪除嘅記錄。
 2. 選取其他要刪除嘅記錄。

@@ -38,6 +38,13 @@ title: guide
   <img src="https://tsuideni-works.github.io/assets/img/openChapter_android.gif" alt="Open chapter on Android" />
 </p>
 
+## Bookmark and unbookmark manga
+1. Press the bookmark button.
+
+<p align="center">
+  <img src="https://tsuideni-works.github.io/assets/img/bookmark.gif" alt="Bookmark and unbookmark" />
+</p>
+
 ## Delete browsing history
 1. In the 'history' tab, long press the record you want to delete.
 2. Select any other records you want to delete.
