@@ -13,7 +13,7 @@ Manage your own collection from different resources and store your reading progr
 
 Order your collection and history in a way you are comfortable with.
 
-Inspired and easily search across all your favourite resources and pick what you find right for leisure. You can also search from your collection and browsing history.
+Inspired and easily search across all your favourite resources and pick what you find right for your leisure time. You can also search from your collection and browsing history.
 
 Never be bordered by your resources with the reading modes of this app. You are free to choose from a swipe to scroll mode.
 
