@@ -35,7 +35,7 @@ Support dark scheme and different languages, including English, Cantonese and Tr
     <a href="https://play.google.com/store/apps/details?id=io.tsuideniworks.tsuideni" style="width:250px">
         <img src="/assets/img/google-play-badge-en.png" alt="google-play-download">
     </a>
-</span>
+</div>
 
 ## Framework
 
