@@ -56,9 +56,9 @@ title: guide
 
 ## Add new sources
 1. Share urls from browsers.
-
+<br />
 or
-
+<br />
 1. Press the add button on the top right corner on the 'Manga Sources' page.
 2. Press the add button of the source you want to add on the 'Add Manga Sources' page.
 
