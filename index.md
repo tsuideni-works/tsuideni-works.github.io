@@ -28,12 +28,12 @@ Support dark scheme and different languages, including English, Cantonese and Tr
 
 ## Download
 
-<span>
-    <a href="https://apps.apple.com/app/id1585506553" style="display:inline-block">
-        <img src="/assets/img/app-store-download-en.png" alt="app-store-download" style="height:80px;padding:6%;box-sizing:border-box">
+<div align="center">
+    <a href="https://apps.apple.com/app/id1585506553" style="width:250px">
+        <img src="/assets/img/app-store-download-en.png" alt="app-store-download" style="width:88%;margin:6%">
     </a>
-    <a href="https://play.google.com/store/apps/details?id=io.tsuideniworks.tsuideni" style="display:inline-block">
-        <img src="/assets/img/google-play-badge-en.png" alt="google-play-download" style="height:80px">
+    <a href="https://play.google.com/store/apps/details?id=io.tsuideniworks.tsuideni" style="width:250px">
+        <img src="/assets/img/google-play-badge-en.png" alt="google-play-download">
     </a>
 </span>
 
