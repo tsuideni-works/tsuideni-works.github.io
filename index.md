@@ -7,6 +7,9 @@ title: index
 <!-- same as index.md in 'en' folder -->
 
 # tsuideni
+
+Manga browser.
+
 Open your favourite manga or chapters from browsers to this app to enjoy the universal experience across multiple resources, no matter which language they are in.
 
 Aggregate recommendations from different resources and check out the latest upcoming manga.
@@ -22,3 +25,20 @@ Never be bordered by your resources with the reading modes of this app. You are 
 Enjoy a high level of privacy as all your data are stored on your device only.
 
 Support dark scheme and different languages, including English, Cantonese and Traditional Chinese.
+
+Developed using Flutter SDK.
+
+<p align="center">
+  <img src="/assets/img/logo_flutter_1080px_clr.png" width=200px alt="Flutter" />
+</p>
+
+# Download
+
+<a href="https://apps.apple.com/app/id1585506553">
+    <img src="/assets/img/app-store-download-en.png" alt="app-store-download">
+</a>
+
+<a href="https://play.google.com/store/apps/details?id=io.tsuideniworks.tsuideni">
+    <img src="/assets/img/google-play-badge-en.png" alt="google-play-download">
+</a>
+
