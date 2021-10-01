@@ -8,7 +8,7 @@ title: index
 
 # tsuideni
 
-## Manga browser.
+## Manga browser
 
 Open your favourite manga or chapters from browsers to this app to enjoy the universal experience across multiple resources, no matter which language they are in.
 
@@ -26,22 +26,21 @@ Enjoy a high level of privacy as all your data are stored on your device only.
 
 Support dark scheme and different languages, including English, Cantonese and Traditional Chinese.
 
-## Development Framework
+## Download
+
+<span>
+    <a href="https://apps.apple.com/app/id1585506553" style="display:inline-block">
+        <img src="/assets/img/app-store-download-en.png" alt="app-store-download" style="height:80px;padding:6%;box-sizing:border-box">
+    </a>
+    <a href="https://play.google.com/store/apps/details?id=io.tsuideniworks.tsuideni" style="display:inline-block">
+        <img src="/assets/img/google-play-badge-en.png" alt="google-play-download" style="height:80px">
+    </a>
+</span>
+
+## Framework
 
 Developed using Flutter SDK.
 
 <p align="center">
-  <img src="/assets/img/logo_flutter_1080px_clr.png" alt="Flutter" width=100px />
+  <img src="/assets/img/logo_flutter_1080px_clr.png" alt="Flutter" width=80px />
 </p>
-
-## Download
-
-<span>
-    <a href="https://apps.apple.com/app/id1585506553">
-        <img src="/assets/img/app-store-download-en.png" alt="app-store-download" height=80px>
-    </a>
-    <a href="https://play.google.com/store/apps/details?id=io.tsuideniworks.tsuideni">
-        <img src="/assets/img/google-play-badge-en.png" alt="google-play-download" height=80px>
-    </a>
-</span>
-
