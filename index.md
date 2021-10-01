@@ -29,17 +29,21 @@ Support dark scheme and different languages, including English, Cantonese and Tr
 ## Download
 
 <div align="center">
-    <a href="https://apps.apple.com/app/id1585506553" style="width:250px">
-        <img src="/assets/img/app-store-download-en.png" alt="app-store-download" style="width:88%;margin:6%">
-    </a>
-    <a href="https://play.google.com/store/apps/details?id=io.tsuideniworks.tsuideni" style="width:250px">
-        <img src="/assets/img/google-play-badge-en.png" alt="google-play-download">
-    </a>
+    <div>
+        <a href="https://apps.apple.com/app/id1585506553">
+            <img src="/assets/img/app-store-download-en.png" alt="app-store-download" width=174px>
+        </a>
+    </div>
+    <div>
+        <a href="https://play.google.com/store/apps/details?id=io.tsuideniworks.tsuideni">
+            <img src="/assets/img/google-play-badge-en.png" alt="google-play-download" width=200px>
+        </a>
+    </div>
 </div>
 
-## Framework
+## Development Framework
 
-Developed using Flutter SDK.
+Developed using Flutter.
 
 <p align="center">
   <img src="/assets/img/logo_flutter_1080px_clr.png" alt="Flutter" width=80px />

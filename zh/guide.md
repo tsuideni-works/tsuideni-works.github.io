@@ -54,6 +54,16 @@ title: guide
   <img src="https://tsuideni-works.github.io/assets/img/deleteHistory.gif" alt="Delete browsing history" />
 </p>
 
+## 新增漫畫來源
+1. 使用瀏覽器分享網址。
+或
+1. 在「漫畫來源」頁面的右上角， 按「新增」按鈕。
+2. 在「新增漫畫來源」頁面中，按要新增的漫畫來源的「新增」按鈕。
+
+## 移除漫畫來源
+1. 在「漫畫來源」頁面中，按要移除的漫畫來源的「移除」按鈕。
+2. 確認移除漫畫來源。
+
 ## 支援網站
 - dm5 (zh)
 - manhuagui (zh)
