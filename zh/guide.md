@@ -6,6 +6,39 @@ title: guide
 
 # 使用說明
 
+## 新增漫畫來源
+1. 使用瀏覽器分享網址。
+
+&nbsp; &nbsp; &nbsp; &nbsp; 或
+
+1. 在「漫畫來源」頁面的右上角， 按「新增」按鈕。
+2. 在「新增漫畫來源」頁面中，按要新增的漫畫來源的「新增」按鈕。
+
+## 移除漫畫來源
+1. 在「漫畫來源」頁面中，按要移除的漫畫來源的「移除」按鈕。
+2. 確認移除漫畫來源。
+
+## 雙頁模式
+- 雙頁模式只可以在裝置横向時使用。
+- 可使用頁面底部的工具列的滑桿來調整頁面。
+- 長按某單頁可全螢幕顯示該單頁，再單按該單頁即可返回雙頁模式。
+
+## 收藏及取消收藏漫畫
+1. 按「收藏」按鈕。
+
+<p align="center">
+  <img src="https://tsuideni-works.github.io/assets/img/bookmark.gif" alt="Bookmark and unbookmark" />
+</p>
+
+## 刪除瀏覽記錄
+1. 在「瀏覽記錄」分頁中，長按要刪除的記錄。
+2. 選取其他要刪除的記錄。
+3. 確認刪除所有選取的記錄。
+
+<p align="center">
+  <img src="https://tsuideni-works.github.io/assets/img/deleteHistory.gif" alt="Delete browsing history" />
+</p>
+
 ## 分享網址
 1. 使用瀏覽器（iOS使用Safari、Android使用Chrome）開啟你想看的漫畫或章節，例如[這裡](https://tsuideni-works.github.io/zh/manga.html)或[這裡](https://tsuideni-works.github.io/zh/pages.html)。這不適用於本應用程式內的瀏覽器。
 2. 將網址分享至本應用程式。在iOS，「分享」按鈕 > 選擇本應用程式。在Android，「更多」按鈕 > 共用... > 選擇本應用程式。
@@ -37,34 +70,6 @@ title: guide
 <p align="center">
   <img src="https://tsuideni-works.github.io/assets/img/openChapter_android.gif" alt="Open chapter on Android" />
 </p>
-
-## 收藏及取消收藏漫畫
-1. 按「收藏」按鈕。
-
-<p align="center">
-  <img src="https://tsuideni-works.github.io/assets/img/bookmark.gif" alt="Bookmark and unbookmark" />
-</p>
-
-## 刪除瀏覽記錄
-1. 在「瀏覽記錄」分頁中，長按要刪除的記錄。
-2. 選取其他要刪除的記錄。
-3. 確認刪除所有選取的記錄。
-
-<p align="center">
-  <img src="https://tsuideni-works.github.io/assets/img/deleteHistory.gif" alt="Delete browsing history" />
-</p>
-
-## 新增漫畫來源
-1. 使用瀏覽器分享網址。
-
-&nbsp; &nbsp; &nbsp; &nbsp; 或
-
-1. 在「漫畫來源」頁面的右上角， 按「新增」按鈕。
-2. 在「新增漫畫來源」頁面中，按要新增的漫畫來源的「新增」按鈕。
-
-## 移除漫畫來源
-1. 在「漫畫來源」頁面中，按要移除的漫畫來源的「移除」按鈕。
-2. 確認移除漫畫來源。
 
 ## 支援網站
 - dm5 (zh)

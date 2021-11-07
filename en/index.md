@@ -18,7 +18,7 @@ Order your collection and history in a way you are comfortable with.
 
 Inspired and easily search across all your favourite resources and pick what you find right for your leisure time. You can also search from your collection and browsing history.
 
-Never be bordered by your resources with the reading modes of this app. You are free to choose from a swipe to scroll mode.
+Never be bordered by your resources with the reading modes of this app. You are free to choose from the swipe or scroll mode and also the single or double page mode.
 
 Enjoy a high level of privacy as all your data are stored on your device only.
 

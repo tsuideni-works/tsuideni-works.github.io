@@ -6,6 +6,39 @@ title: guide
 
 # User Guide
 
+## Add new sources
+1. Share urls from browsers.
+
+&nbsp; &nbsp; &nbsp; &nbsp; or
+
+1. Press the add button at the top right corner on the 'Manga Sources' page.
+2. Press the add button of the source you want to add on the 'Add Manga Sources' page.
+
+## Remove sources
+1. Press the remove button of the source you want to remove on the 'Manga Source' page.
+2. Confirm to remove the source.
+
+## Double page mode
+- Double page mode is only available when your device is in landscape orientation.
+- Use the slider on the bottom toolbar to adjust the pages.
+- Long press a single page to show that page fullscreen and press that page again to back to double page mode.
+
+## Bookmark and unbookmark manga
+1. Press the bookmark button.
+
+<p align="center">
+  <img src="https://tsuideni-works.github.io/assets/img/bookmark.gif" alt="Bookmark and unbookmark" />
+</p>
+
+## Delete browsing history
+1. In the 'History' tab, long press the record you want to delete.
+2. Select any other records you want to delete.
+3. Confirm to delete the selected records.
+
+<p align="center">
+  <img src="https://tsuideni-works.github.io/assets/img/deleteHistory.gif" alt="Delete browsing history" />
+</p>
+
 ## Share urls
 1. Use the browser (Safari on iOS and Chrome on Android) to navigate to the manga or chapter you want to read, e.g. [here](https://tsuideni-works.github.io/en/manga.html) or [here](https://tsuideni-works.github.io/en/pages.html). The web view launched in the application will not work.
 2. Share the url to the application. On iOS, share button > pick the application. On Android, menu button > Share... > pick the applcation.
@@ -37,34 +70,6 @@ title: guide
 <p align="center">
   <img src="https://tsuideni-works.github.io/assets/img/openChapter_android.gif" alt="Open chapter on Android" />
 </p>
-
-## Bookmark and unbookmark manga
-1. Press the bookmark button.
-
-<p align="center">
-  <img src="https://tsuideni-works.github.io/assets/img/bookmark.gif" alt="Bookmark and unbookmark" />
-</p>
-
-## Delete browsing history
-1. In the 'History' tab, long press the record you want to delete.
-2. Select any other records you want to delete.
-3. Confirm to delete the selected records.
-
-<p align="center">
-  <img src="https://tsuideni-works.github.io/assets/img/deleteHistory.gif" alt="Delete browsing history" />
-</p>
-
-## Add new sources
-1. Share urls from browsers.
-
-&nbsp; &nbsp; &nbsp; &nbsp; or
-
-1. Press the add button on the top right corner on the 'Manga Sources' page.
-2. Press the add button of the source you want to add on the 'Add Manga Sources' page.
-
-## Remove sources
-1. Press the remove button of the source you want to remove on the 'Manga Source' page.
-2. Confirm to remove the source.
 
 ## Supported websites
 - dm5 (zh)
