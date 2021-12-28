@@ -20,7 +20,7 @@ title: guide
 
 ## Double page mode
 - Double page mode is only available when your device is in landscape orientation.
-- Use the slider on the bottom toolbar to adjust the pages.
+- Use the slider on the bottom toolbar to adjust the pages. You can also use two pointers (fingers) to tap on the left or right edge of the screen to quickly adjust the pages.
 - Long press a single page to show that page fullscreen and press that page again to back to double page mode.
 
 ## Bookmark and unbookmark manga
