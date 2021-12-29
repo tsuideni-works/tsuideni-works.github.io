@@ -55,7 +55,7 @@ You agree to our [privacy policy](https://tsuideni-works.github.io/en/terms.html
 We do not own or host any of contents displayed in the application. The displayed contents are used for comment and research purposes only.
 
 # Privacy Policy
-**updated on 24/8/2021**
+**updated on 28/12/2021**
 
 **Data Collection**
 
